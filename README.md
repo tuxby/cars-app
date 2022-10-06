@@ -1,3 +1,3 @@
 # car rental website
-My first experience in Angular JS  
+My first experience in frontend
 https://tuxby.github.io/cars-app/
